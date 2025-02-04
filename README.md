@@ -1,2 +1,2 @@
-# c-
+# c++
 Casino game 
